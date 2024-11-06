@@ -1,4 +1,4 @@
-# Invernadero Automatizado con Monitoreo y Control Inteligente
+# Vivero Automatizado con Monitoreo y Control Inteligente
 
 Este proyecto integra un sistema de monitoreo y control para un invernadero automatizado, usando Python y Arduino.
 
